@@ -6,4 +6,7 @@ let j = 5 / 4 ;
 console.log(x);
 console.log(z);
 console.log(i);
-console.log(j);
+
+let numbers :number =  10 ;
+let numberTwo : string = '10' ; 
+console.log(10 === 10);
